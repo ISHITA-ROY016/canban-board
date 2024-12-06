@@ -2,7 +2,7 @@
 
 basic react project built using Zustand and Shadcn UI. 
 
-*(for practice purpose)*
+*(for learning purpose)*
 
 ## Features: 
 
